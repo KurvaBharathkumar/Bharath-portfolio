@@ -72,16 +72,3 @@ Currently, I’m exploring the intersection of **AI, data analytics, and softwar
 ⭐ *“Code. Learn. Build. Repeat.”*
 Thanks for visiting my portfolio! Feel free to explore my projects and connect with me. 🚀
 
-## How to Use
-
-1. Clone the repo
-2. Install dependencies  
-   `npm install`
-3. Edit your details in `src/config.json`
-4. Add your avatar to `/public/avatar.png`
-5. Run locally  
-   `npm run dev`
-6. Deploy on [Vercel](https://vercel.com/)
-
-## Editing
-Change anything in `src/config.json` to instantly update your site!
